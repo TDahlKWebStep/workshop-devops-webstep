@@ -48,6 +48,9 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18
+    
+      - name: Init deployment
+        run: echo "PUBLIC_URL=${{vars.PUBLIC_URL}}/${{github.head_ref}}" >> $GITHUB_ENV
 
       - name: Install dependencies
         run: npm install
