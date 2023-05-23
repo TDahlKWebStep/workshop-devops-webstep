@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://tdahlkwebstep.github.io/workshop-devops-webstep/step-5-tim/static/css/main.073c9b0a.css",
+    "main.js": "https://tdahlkwebstep.github.io/workshop-devops-webstep/step-5-tim/static/js/main.e8f1c7dc.js",
+    "static/js/787.f4653251.chunk.js": "https://tdahlkwebstep.github.io/workshop-devops-webstep/step-5-tim/static/js/787.f4653251.chunk.js",
+    "static/media/logo.svg": "https://tdahlkwebstep.github.io/workshop-devops-webstep/step-5-tim/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "https://tdahlkwebstep.github.io/workshop-devops-webstep/step-5-tim/index.html",
+    "main.073c9b0a.css.map": "https://tdahlkwebstep.github.io/workshop-devops-webstep/step-5-tim/static/css/main.073c9b0a.css.map",
+    "main.e8f1c7dc.js.map": "https://tdahlkwebstep.github.io/workshop-devops-webstep/step-5-tim/static/js/main.e8f1c7dc.js.map",
+    "787.f4653251.chunk.js.map": "https://tdahlkwebstep.github.io/workshop-devops-webstep/step-5-tim/static/js/787.f4653251.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e8f1c7dc.js"
+  ]
+}
